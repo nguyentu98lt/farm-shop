@@ -1,3 +1,3 @@
 Project for my CV...
-DB naem:farm.
+DB name:farm.sql
 import DB to schema "farm".
